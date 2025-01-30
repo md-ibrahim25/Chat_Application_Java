@@ -6,7 +6,7 @@ This project was a requirement for my undergraduate Computer Networking sessiona
 
 In order to run locally first clone this repository by 
 
-git clone https://github.com/avijit1258/ChatApplicationJava/
+git clone [(https://github.com/md-ibrahim25/Chat_Application_Java.git)]
 
 //Chat client can be in the same pc or one which is connect over same local area network like wifi or same ISP
 Next go to the src folder inside ChatApplicationJava and open terminal to run
@@ -31,4 +31,3 @@ JDK should be installed to run and test
 
 * Eclipse
 
-htt
